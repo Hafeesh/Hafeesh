@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hafeesh
-- 👀 I’m interested in machine learning enginnee
-- 🌱 I’m currently learning ANNA UNIVERSITY CHENNAI
+- 👀 I’m interested in machine learning enginneer role
+- 🌱 I’m currently learning at ANNA UNIVERSITY CHENNAI
 - 💞️ I’m looking to collaborate on AIcompanies
 - 📫 How to reach me akhafeez07@gmail.com
 
