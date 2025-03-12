@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/akhafeez1" target="blank"><img src="https://img.shields.io/twitter/follow/akhafeez1?logo=twitter&style=for-the-badge" alt="akhafeez1" /></a> </p>
 
-- 🌱 I’m currently learning **3rd year, B.Tech in Artificial intelligence and data science**
+- 🌱 I’m currently learning **Working as ML Engineer**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hafeesh-ak-252421201](https://www.linkedin.com/in/hafeesh-ak-252421201)
 
